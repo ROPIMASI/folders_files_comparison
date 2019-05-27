@@ -8,7 +8,7 @@ _(or ffc)_
 CONTENT: A PERSONAL MINI-PPROJECT.  
 THEME: COMPARISON OF FOLDERS OR FILES.  
 PROJECT NAME: **folders_files_comparison**.  
-FILE NAME: **folders_files_comparison.py** / _or **FFC**_.  
+FILE NAME: **folders_files_comparison.py** / _or **ffc**_.  
 PROJ-VERSION: 0.0.1 beta.  
 BRANCH: MASTER.
 AUTHOR: RONALDO PI MA SI.  
